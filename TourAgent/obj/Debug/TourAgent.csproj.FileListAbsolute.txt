@@ -1,0 +1,10 @@
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\bin\Debug\TourAgent.exe.config
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\bin\Debug\TourAgent.exe
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\bin\Debug\TourAgent.pdb
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\obj\Debug\TourAgent.csprojAssemblyReference.cache
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\obj\Debug\TourAgent.Form1.resources
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\obj\Debug\TourAgent.Properties.Resources.resources
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\obj\Debug\TourAgent.csproj.GenerateResource.cache
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\obj\Debug\TourAgent.exe
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\obj\Debug\TourAgent.pdb
+C:\Users\Данка\Desktop\БД\TourAgent\TourAgent\obj\Debug\TourAgent.Form2.resources
